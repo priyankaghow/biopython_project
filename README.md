@@ -77,7 +77,7 @@ For academic purposes, BLAST can alternatively be performed using the NCBI BLAST
 
 ---
 
-## Expected Output
+## Output
 - Amino acid composition summary
 - Sequence quality validation
 - BLAST homology results in XML format
@@ -87,4 +87,5 @@ For academic purposes, BLAST can alternatively be performed using the NCBI BLAST
 
 ## Author
 Priyanka Ghow
+
 
